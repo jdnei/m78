@@ -40,8 +40,8 @@ M78星云VPN机场提供多地区高速节点与稳定线路，支持多设备�
 
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](?raw=ture)  
+![image](https://github.com/jdnei/m78/blob/main/m78/657a71a5acfdd.jpg?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](?raw=ture)    
+![image](https://github.com/jdnei/m78/blob/main/m78/657a71a5acfdd.jpg?raw=ture)    
 #### 3.落地入口分析  
-![image](?raw=ture)
+![image](https://github.com/jdnei/m78/blob/main/m78/657a71a627e36.jpg?raw=ture)
