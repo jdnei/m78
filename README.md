@@ -1,5 +1,5 @@
 
-# M78星云机场官方地址(2026年7月28日更新)
+# M78星云机场官方地址(2026年7月29日更新)
 M78星云机场官网地址</br>
 最新地址01：[www.m78.pro](https://www.m78.pro/#/register?code=D93MjDUY)</br>
 最新地址02：[m78star.cloud](https://m78star.cloud/#/register?code=D93MjDUY)</br>
