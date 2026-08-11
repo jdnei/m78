@@ -2,7 +2,7 @@
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 
-# M78星云机场官方地址(2026年8月10日更新)
+# M78星云机场官方地址(2026年8月11日更新)
 M78星云机场官网地址</br>
 最新地址01：[www.m78.pro](https://to.iix.im/xy03)</br>
 最新地址02：[m78star.cloud](https://to.iix.im/xy02)</br>
