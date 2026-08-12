@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# M78 Nebula VPN Official Address (Updated August 11, 2026)
+# M78 Nebula VPN Official Address (Updated August 12, 2026)
 
 M78 Nebula VPN Official Website</br>
 Latest Address 01: [www.m78.pro](https://to.iix.im/xy03)</br>
